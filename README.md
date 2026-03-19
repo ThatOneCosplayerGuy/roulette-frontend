@@ -17,6 +17,7 @@ Built mostly for experimenting with UI interactions and browser state.
 * Chip management
 * Spin animation
 * Local storage save/load
+* IF YOU ARE READING THIS, IT IS MADE FOR A PROJECT FOR MYSELF, NOT REAL GAMBLING
 
 ## Tech Stack
 
