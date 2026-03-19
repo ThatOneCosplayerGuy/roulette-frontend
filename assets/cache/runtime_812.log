@@ -1,0 +1,32 @@
+[2026-03-18 14:05:11.221] VM812:1 initRoulette()
+[2026-03-18 14:05:11.305] VM812:2 CONFIG loaded {startingCash: 50000, maxBuyPerTx: 10000}
+[2026-03-18 14:05:11.412] VM812:4 attaching key listener... ok
+[2026-03-18 14:05:11.588] VM812:6 loading localStorage → euroroulette_v1
+
+[2026-03-18 14:05:11.644] VM812:10 restoreState() → success
+[2026-03-18 14:05:11.645] VM812:11 cash: 48200, chips: 800, debt: 0
+
+[2026-03-18 14:05:13.902] VM812:18 user placed bet → 200 on red
+[2026-03-18 14:05:14.771] VM812:19 spinWheel() called
+[2026-03-18 14:05:15.224] VM812:20 result → 19 (red)
+
+[2026-03-18 14:05:15.371] VM812:26 updateUI() complete
+[2026-03-18 14:05:15.382] VM812:27 saveGame() → localStorage updated
+
+[2026-03-18 14:05:17.118] VM812:33 user placed bet → 500 on 17
+[2026-03-18 14:05:17.992] VM812:34 spinWheel() called
+[2026-03-18 14:05:18.441] VM812:35 result → 2 (black)
+
+[2026-03-18 14:05:18.590] VM812:41 updateUI() complete
+[2026-03-18 14:05:18.601] VM812:42 saveGame() → localStorage updated
+
+[2026-03-18 14:05:19.884] VM812:48 AudioContext resumed
+[2026-03-18 14:05:19.941] VM812:49 playing sound → chip.wav
+
+[2026-03-18 14:05:21.332] VM812:55 xhr GET /api/stats 200 OK
+[2026-03-18 14:05:21.401] VM812:56 stats updated
+
+[2026-03-18 14:05:22.884] VM812:63 warning: dropped frame (17ms)
+[2026-03-18 14:05:22.885] VM812:64 recalculating layout...
+
+[2026-03-18 14:05:24.112] VM812:70 idle
