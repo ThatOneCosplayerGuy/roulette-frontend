@@ -1,0 +1,9 @@
+debug notes
+
+- vm ids kept changing after rebuild
+- 642 was stable
+- 703 broke everything again
+- 771… worked, but shouldn't have
+
+- logs still exist somewhere
+- not indexed anymore
