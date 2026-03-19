@@ -1,4 +1,3 @@
-# roulette-frontend
 # Roulette Frontend
 
 Simple browser-based roulette game built with vanilla JavaScript.
