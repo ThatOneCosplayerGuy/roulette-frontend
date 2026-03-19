@@ -1,0 +1,6 @@
+TODO:
+- fix chip alignment
+- clean up spin logic
+- remove debug logs (later)
+- dealer logic still weird
+- i ceep dreaming about shedletsky from forsaken. weird. like, about banning him. odd, aint it.
