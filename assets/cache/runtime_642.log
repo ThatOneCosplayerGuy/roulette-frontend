@@ -1,0 +1,10 @@
+[2026-03-14 18:22:11.842] VM642:1 initRoulette()
+[2026-03-14 18:22:12.011] attaching key listener... ok
+
+[2026-03-14 18:22:15.887] spinWheel() called
+[2026-03-14 18:22:16.441] result → 14 (red)
+
+[2026-03-14 18:22:19.112] user placed bet → 500 on black
+[2026-03-14 18:22:19.913] result → 2 (black)
+
+[2026-03-14 18:22:22.884] warning: dropped frame
